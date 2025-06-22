@@ -1,0 +1,11 @@
+- `/frontend` - React application  # Dependencies 
+node_modules/ 
+*/node_modules/ 
+ 
+# Environment files 
+.env 
+*.local 
+ 
+# Logs 
+logs 
+*.log 
